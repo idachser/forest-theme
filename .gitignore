@@ -1,0 +1,31 @@
+# Local agent and Codex state
+.agents/
+.codex/
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Lua tooling and caches
+.luarc.json
+.lua-language-server/
+luac.out
+
+# Neovim test and plugin artifacts
+.repro/
+lazy-lock.json
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+.cache/
