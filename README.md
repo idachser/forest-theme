@@ -12,7 +12,7 @@ Install this repository with your preferred Neovim plugin manager.
 
 ```lua
 {
-	"your-name/forest-theme",
+	"idachser/forest-theme",
 	lazy = false,
 	priority = 1000,
 	config = function()
@@ -25,7 +25,7 @@ Install this repository with your preferred Neovim plugin manager.
 
 ```lua
 use({
-	"your-name/forest-theme",
+	"idachser/forest-theme",
 	config = function()
 		vim.cmd.colorscheme("forest")
 	end,
@@ -37,7 +37,7 @@ use({
 Clone the repository into Neovim's package path:
 
 ```sh
-git clone https://github.com/your-name/forest-theme.git \
+git clone https://github.com/idachser/forest-theme.git \
 	~/.local/share/nvim/site/pack/themes/start/forest-theme
 ```
 
