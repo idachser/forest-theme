@@ -2,7 +2,7 @@
 
 A dark forest-inspired colorscheme for Neovim.
 
-The palette uses deep bark backgrounds, moss and sage neutrals, warm bark accents, and bright forest greens for active UI states.
+The palette uses deep bark backgrounds, moss and sage neutrals, warm bark accents, cool creek tones, and bright forest greens for active UI states.
 
 ## Installation
 
@@ -85,9 +85,10 @@ Key colors:
 - Light background: `#241f19`
 - Foreground: `#e4e0d1`
 - Comment: `#7b8570`
-- Accent: `#b7e39a`
+- Accent: `#8fd05f`
 - Forest greens: `#25402c`, `#3d6141`, `#5d8b59`, `#89ba7f`
 - Bark accents: `#733523`, `#9c4e2e`, `#cc7444`, `#e7a06d`
+- Extra accents: `#4f9a55`, `#9bcf50`, `#2f8f83`, `#5aa69a`, `#c9893a`, `#a94b64`, `#cf4f4f`
 
 ## Development
 

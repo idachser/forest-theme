@@ -15,12 +15,19 @@ local c = {
 
 	moss = "#7d8b61",
 	sage = "#b4c194",
+	fern = "#4f9a55",
+	lichen = "#9bcf50",
+	creek = "#2f8f83",
+	mist = "#5aa69a",
+	amber = "#c9893a",
+	berry = "#a94b64",
+	red = "#cf4f4f",
 
 	fg = "#e4e0d1",
 	fg_dark = "#b0ac9f",
 	comment = "#7b8570",
 
-	accent = "#b7e39a",
+	accent = "#8fd05f",
 }
 
 return c
