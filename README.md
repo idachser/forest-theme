@@ -4,6 +4,8 @@ A dark forest-inspired colorscheme for Neovim.
 
 The palette uses deep bark backgrounds, moss and sage neutrals, warm bark accents, cool creek tones, and bright forest greens for active UI states.
 
+![Screenshot](assets/screenshot.png)
+
 ## Installation
 
 Install this repository with your preferred Neovim plugin manager.
